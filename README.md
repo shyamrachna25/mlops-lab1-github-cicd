@@ -18,8 +18,9 @@ push to `main`.
 
 ## Running it
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
 pytest test/test_pytest.py -v
 python3 -m unittest test.test_unittest -v
-\`\`\`
+```
+
